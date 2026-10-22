@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.env
+.venv
+env/
+venv/
+.DS_Store
+*.swp
+*.bak
+*.log
+*.aux
+*.synctex.gz

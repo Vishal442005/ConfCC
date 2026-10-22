@@ -1,0 +1,29 @@
+Pair,p_raw,p_adj,Significant
+ConfCC (ACI) vs Split-Conformal (static),0.0,0.0,True
+ConfCC (ACI) vs Delay-target (no ACI),0.0,0.0,True
+ConfCC (ACI) vs CUBIC,0.0,0.0,True
+ConfCC (ACI) vs BBR,0.0,0.0,True
+ConfCC (ACI) vs Vegas,0.0,0.0,True
+ConfCC (ACI) vs NewReno,0.0,0.0,True
+Split-Conformal (static) vs Delay-target (no ACI),0.0,0.0,True
+Split-Conformal (static) vs CUBIC,0.0,0.0,True
+Split-Conformal (static) vs BBR,0.0,0.0,True
+Split-Conformal (static) vs Vegas,0.0,0.0,True
+Split-Conformal (static) vs NewReno,0.0,0.0,True
+Delay-target (no ACI) vs CUBIC,0.0,0.0,True
+Delay-target (no ACI) vs BBR,0.0,0.0,True
+Delay-target (no ACI) vs Vegas,0.0,0.0,True
+Delay-target (no ACI) vs NewReno,0.0,0.0,True
+CUBIC vs BBR,0.0,0.0,True
+CUBIC vs Vegas,0.0,0.0,True
+CUBIC vs NewReno,0.0,0.0,True
+CUBIC vs Copa,0.0,0.0,True
+BBR vs Vegas,0.0,0.0,True
+BBR vs NewReno,0.0,0.0,True
+BBR vs Copa,0.0,0.0,True
+Vegas vs NewReno,0.0,0.0,True
+NewReno vs Copa,0.0,0.0,True
+Delay-target (no ACI) vs Copa,0.0,0.0,True
+ConfCC (ACI) vs Copa,0.0,0.0,True
+Vegas vs Copa,0.0,0.0001,True
+Split-Conformal (static) vs Copa,0.1359,0.1359,False

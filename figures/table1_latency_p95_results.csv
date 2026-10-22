@@ -1,0 +1,9 @@
+Scenario,ConfCC (ACI),CUBIC,BBR,Vegas,NewReno
+Scenario,ConfCC (ACI),CUBIC,BBR,Vegas,NewReno
+S1: Dumbbell,33 (0),349 (0),150 (25),31 (0),139 (0)
+S2: Trace-driven,66 (0),292 (50),171 (46),64 (1),294 (88)
+S3: Multi-flow,--,--,--,--,--
+S4: Parking-lot,43 (0),144 (0),106 (1),34 (0),149 (0)
+S5: Wi-Fi,20 (0),204 (6),39 (2),14 (1),166 (20)
+S7: Adversarial,56 (0),152 (0),120 (6),48 (0),163 (0)
+S8: Short-flow,21 (0),54 (0),46 (0),14 (0),63 (0)
