@@ -12,3 +12,14 @@ venv/
 *.log
 *.aux
 *.synctex.gz
+
+# Exclude research paper, manuscripts, and builder scripts
+*.pdf
+*.docx
+*.doc
+*paper*builder*.py
+paper_builder.py
+paper_journal.*
+paper.*
+*.tex
+docs/
